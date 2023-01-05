@@ -1,4 +1,4 @@
-# TOMADA DE DECISÃO
+# DECISION MAKING TESTS AND SCORES
 
 test environment setup on a new linux install
 
