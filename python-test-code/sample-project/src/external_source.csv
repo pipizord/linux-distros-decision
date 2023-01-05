@@ -1,0 +1,7 @@
+this,simulates,an,external,source
+01,text,email01@provider,'person name',file
+02,string,email02@provider,'person name',database
+03,variable,email03@provider,'person name',file
+04,String,email04@provider,'person name',file
+05,Character,email05@provider,'person name',test
+06,name,email06@provider,'person name',file

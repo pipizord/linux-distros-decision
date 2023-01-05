@@ -1,0 +1,3 @@
+cd python-test-code\sample-project
+python -m venv venv
+venv\Scripts\activate
